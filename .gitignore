@@ -1,0 +1,4 @@
+# Binaries used during development.
+./migrate
+./postgrest
+dep
